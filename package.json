@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/VladislavRadko/actions/issues"
   },
-  "homepage": "https://github.com/VladislavRadko/actions#readme"
+  "homepage": "https://github.com/VladislavRadko/actions#readme",
+  "publishConfig": {
+    "@VladislavRadko:registry": "https://npm.pkg.github.com"
+  }
 }
